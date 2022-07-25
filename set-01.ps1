@@ -1,6 +1,7 @@
 # set-01.ps1	221225 Christmas Day 2021
 #
 # Some PSHell and MSGraph stuff
+# Added this 220725 to vet the git remote
 #--------------------------------------------------------------------
 
 # Connect as jh.pauley@outlook.com into curvic.io
